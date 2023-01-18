@@ -8,3 +8,5 @@
         scrapy crawl notebooks2
 
 Результат будет записан в базу данных note.sqlite
+
+Вычисление рейтинга: cpu'*10+ram*10+price_rub*-0.0001
